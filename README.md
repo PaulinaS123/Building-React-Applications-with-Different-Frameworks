@@ -49,7 +49,7 @@ Installation
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/PaulinaS123/Building-React-Applications-with-Different-Frameworks.git>
 cd your-remix-app
 ```
 2. Install dependencies:
